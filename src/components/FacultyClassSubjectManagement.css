@@ -1,0 +1,31 @@
+.faculty-class-subject-management {
+    padding: 20px;
+}
+
+.assignment-card {
+    margin-bottom: 20px;
+    border-left: 4px solid #007bff;
+}
+
+.assignment-card .card-header {
+    background-color: #f8f9fa;
+    font-weight: 600;
+}
+
+.faculty-badge {
+    font-size: 0.9rem;
+    padding: 5px 10px;
+}
+
+.subject-badge {
+    font-size: 0.85rem;
+    margin-right: 5px;
+}
+
+.assignment-table td {
+    vertical-align: middle;
+}
+
+.modal-form-group {
+    margin-bottom: 1rem;
+}
